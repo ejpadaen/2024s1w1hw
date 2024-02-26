@@ -11,7 +11,7 @@ document.addEventListener('scroll', function() {
     title.style.marginTop = value * 1.1 + 'px'
 
     clod1.style.marginLeft = -value + 'px'
-    clod2.style.marginRight = -value + 'px'
+    clod2.style.marginLeft = value + 'px'
 
     stor.style.marginBottom = -value + 'px'
 
