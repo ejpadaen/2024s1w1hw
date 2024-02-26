@@ -20,6 +20,16 @@
   pointer-events: none;
 }
 
+.landing .clod1 {
+  position: absolute;
+  right: 80%;
+}
+
+.landing .clod2 {
+  position: absolute;
+  left: 80%;
+}
+
 .landing .title {
   position: absolute;
   top: 50%;
