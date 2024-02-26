@@ -5,7 +5,6 @@ const stor = document.querySelector('.stor')
 const silwhoett = document.querySelector('.silwhoett')
 const monten = document.querySelector('.monten')
 
-
 document.addEventListener('scroll', function() {
     let value = window.scrollY
     // console.log(value)
