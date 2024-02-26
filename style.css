@@ -48,6 +48,10 @@
   z-index: 100;
 }
 
-.about h1{
+.about h1 {
   font-size: 40px;
+}
+
+.about p {
+  font-size: 12px;
 }
