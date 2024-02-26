@@ -2,7 +2,6 @@ const title = document.querySelector('.title')
 const clod1 = document.querySelector('.clod1')
 const clod2 = document.querySelector('.clod2')
 const stor = document.querySelector('.stor')
-const silwhoett = document.querySelector('.silwhoett')
 const monten = document.querySelector('.monten')
 
 document.addEventListener('scroll', function() {
@@ -14,7 +13,6 @@ document.addEventListener('scroll', function() {
     clod2.style.marginLeft = value + 'px'
 
     stor.style.marginBottom = -value + 'px'
-
-    silwhoett.style.marginBottom = -value * 1.1 + 'px'
+    
     monten.style.marginBottom = -value * 1.2 + 'px'
 })
