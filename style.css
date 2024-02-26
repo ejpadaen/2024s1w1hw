@@ -17,6 +17,8 @@ font-family: 'Poppins', sans-serif;
   bottom: 0%;
   width: 100%;
   pointer-events: none;
+  overflow-y: hidden;
+  overflow-x: visible;
 }
 
 .landing .silwhoett {
