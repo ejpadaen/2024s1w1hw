@@ -14,15 +14,13 @@ font-family: 'Poppins', sans-serif;
 
 .landing img {
   position: absolute;
-  bottom: 0%;
+  bottom: 0;
   width: 100%;
   pointer-events: none;
-  overflow-y: hidden;
-  overflow-x: visible;
 }
 
 .landing .silwhoett {
-  top: 50%;
+  top: 20%;
 }
 
 .landing .title {
