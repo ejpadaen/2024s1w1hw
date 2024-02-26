@@ -9,7 +9,7 @@ document.addEventListener('scroll', function() {
     // console.log(value)
     title.style.marginTop = value * 1.1 + 'px'
 
-    clod1.style.marginLeft = -value + 'px'
+    clod1.style.marginRight = value + 'px'
     
     clod2.style.marginLeft = value + 'px'
 
