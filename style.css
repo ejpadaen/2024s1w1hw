@@ -17,6 +17,7 @@ font-family: 'Poppins', sans-serif;
   bottom: 0;
   width: 100%;
   pointer-events: none;
+  background-size: contain;
 }
 
 .landing .title {
